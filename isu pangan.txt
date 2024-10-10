@@ -1,0 +1,14 @@
+bagaimana agar para petani di Indonesia menghasilkan produk tani yang lebih berkualitas
+
+para petani di Indonesia masih minim literasi dan edukasi tentang cara menghasilkan produk tani yang berkualitas
+
+1. control IoT pada perangkat pertanian seperti:
+alat panen otomatis, irigasi otomatis, alat pengusir hama
+
+2. jual beli dan edukasi bibit
+
+3. perkiraan cuaca dan edukasi iklim
+
+4. pemantauan kondisi/kualitas tanah
+
+5. laporan hasil tani
