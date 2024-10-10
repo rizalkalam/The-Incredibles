@@ -12,3 +12,5 @@ alat panen otomatis, irigasi otomatis, alat pengusir hama
 4. pemantauan kondisi/kualitas tanah
 
 5. laporan hasil tani
+
+6.blockhain data bibit dan transaksi
